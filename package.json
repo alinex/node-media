@@ -1,10 +1,10 @@
 {
   "name": "alinex-media",
   "version": "0.0.0",
-  "description": "",
+  "description": "Media analyzation and manipulation controller.",
   "copyright": "Alexander Schilling 2016",
   "private": false,
-  "keywords": [],
+  "keywords": ["Media", "Files", "Audio", "Video", "Images", "Convert"],
   "homepage": "http://alinex.github.io/node-media/",
   "repository": {
     "type": "git",
